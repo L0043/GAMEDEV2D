@@ -62,7 +62,7 @@ namespace GameDev2D
             }
             if (keyCode == KeyCode::Space)
             {
-
+                // m_accelerating = true;
             }
         }
         if (keyState == KeyState::Up)
@@ -77,7 +77,7 @@ namespace GameDev2D
             }
             if(keyCode == KeyCode::Space)
             {
-            
+                // m_accelerating = false;
             }
         }
         // acceleration code goes here
