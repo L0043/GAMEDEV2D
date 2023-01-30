@@ -1,0 +1,5 @@
+﻿  Ship.cpp
+C:\Users\lill0043\Downloads\GAM1544-GameDev2D3\GAM1544-GameDev2D\Source\Constants.h(4,41): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\lill0043\Downloads\GAM1544-GameDev2D3\GAM1544-GameDev2D\Source\Ship.cpp(6,69): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\lill0043\Downloads\GAM1544-GameDev2D3\GAM1544-GameDev2D\Source\Ship.cpp(6,46): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  GameDev2D.vcxproj -> C:\Users\lill0043\Downloads\GAM1544-GameDev2D3\GAM1544-GameDev2D\Builds\GameDev2D-GAM1544\Debug\GameDev2D-GAM1544.exe
